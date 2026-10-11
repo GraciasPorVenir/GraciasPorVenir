@@ -1,6 +1,5 @@
 # Hello! and Gracias por Venir
 
-- I'm Eduardo Vásquez
 - Dev, studying Informatic Engineering
 - From Mejor País del Mundo 🇦🇷
 - I use Arch btw
