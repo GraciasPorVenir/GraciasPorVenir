@@ -1,6 +1,6 @@
 # Hello! and Gracias por Venir
 
-- Dev, studying Informatic Engineering
+- Dev, studying Computer Engineering
 - From Mejor País del Mundo 🇦🇷
 - I use Arch btw
 
@@ -14,7 +14,6 @@
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
@@ -25,21 +24,17 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
-![Krita](https://img.shields.io/badge/Krita-332929?style=for-the-badge&logo=krita&logoColor=white)
 
 ## Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=GraciasPorVenir&theme=prussian)](https://git.io/streak-stats)
-![GitHub Readme Stats](https://github-readme-stats.shion.dev/api?username=GraciasPorVenir&theme=prussian&hide_border=true&include_all_commits=true&count_private=false)
-![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=GraciasPorVenir&theme=prussian&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![GitHub Readme Stats](https://github-readme-stats.shion.dev/api?username=GraciasPorVenir&theme=prussian&hide_border=true&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=GraciasPorVenir&theme=prussian&hide_border=true&include_all_commits=true&count_private=true)
 
+<!--
 ## Notorious projects
-
-- 🚁🚁🚁
+-->
 
 ## Contacts
 
