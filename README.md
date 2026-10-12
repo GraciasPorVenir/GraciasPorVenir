@@ -1,10 +1,13 @@
 # Hello! and Gracias por Venir
 
-- Dev, studying Computer Engineering
+- Studying Computer Engineering, interested in ML.
 - From Mejor País del Mundo 🇦🇷
-- I use Arch btw
+- Want to keep learning and make useful free projects 
+- I use Arch btw.
 
 ## Tech stack
+
+### Languages & Frameworks
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -13,6 +16,8 @@
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### DB, Hardware, etc.
 
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -33,6 +38,7 @@
 ## Contacts
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-v%C3%A1squez-b99076375)
+[![Website](https://img.shields.io/badge/Website-GraciasPorVenir.github.io-222222?style=for-the-badge&logo=github&logoColor=white)](https://GraciasPorVenir.github.io)
 
 ---
 
