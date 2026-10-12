@@ -33,11 +33,10 @@
 ## Contacts
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-v%C3%A1squez-b99076375)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardovasquezguerra@gmail.com)
 
 ---
 
-![Albert Camus Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Man%20is%20the%20only%20animal%20that%20refuses%20to%20be%20what%20he%20is.&author=Albert%20Camus%20(L%27Homme%20révolté))
+![Albert Camus Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Man%20is%20the%20only%20animal%20that%20refuses%20to%20be%20what%20he%20is.&author=Albert%20Camus%20(L%27Homme%20r%C3%A9volt%C3%A9))
 
 ![Richard Stallman Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=If%20the%20users%20don%27t%20control%20the%20program,%20the%20program%20controls%20the%20users.&author=Richard%20Stallman)
 
