@@ -38,6 +38,4 @@
 
 ![Albert Camus Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Man%20is%20the%20only%20animal%20that%20refuses%20to%20be%20what%20he%20is.&author=Albert%20Camus%20(L%27Homme%20r%C3%A9volt%C3%A9))
 
-![Richard Stallman Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=If%20the%20users%20don%27t%20control%20the%20program,%20the%20program%20controls%20the%20users.&author=Richard%20Stallman)
-
 ![Gustavo Cerati Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Una%20vez%20vi%20un%20CD%20m%C3%ADo%20a%20diez%20pesos.%20Me%20dio%20verg%C3%BCenza%20y%20me%20lo%20llev%C3%A9.&author=Gustavo%20Cerati)
