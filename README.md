@@ -29,7 +29,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=GraciasPorVenir&theme=prussian)](https://git.io/streak-stats)
 ![GitHub Readme Stats](https://github-readme-stats.shion.dev/api?username=GraciasPorVenir&theme=prussian&hide_border=true&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=GraciasPorVenir&theme=prussian&hide_border=true&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=GraciasPorVenir&theme=prussian&hide_border=true&include_all_commits=true&count_private=true&layout="compact")
 
 <!--
 ## Notorious projects
